@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thisasta
 - 👀 I’m interested in Java.
 - 🌱 I’m currently learning Java.
+- 💻 I love my Computer.
 
 <!---
 thisasta/thisasta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
