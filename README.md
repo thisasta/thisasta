@@ -15,7 +15,7 @@
 
 ### About me
 
-I'm doing a dual degree in **Software Technology** in Germany — full-time work at a bank alongside university coursework. Day job started in data governance and data platforms; what I actually want to build is **backend services and software architecture**, preferably in the financial domain.
+I'm doing a dual degree in **Software Technology** in Germany — full-time work alongside university coursework. I started out on the data side, governance and data platforms; what I actually want to build is **backend services and software architecture**, preferably in the financial domain.
 
 I care less about getting something to run and more about being able to explain every decision behind it.
 
@@ -51,11 +51,6 @@ I care less about getting something to run and more about being able to explain 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-
-**Currently learning**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
