@@ -1,20 +1,89 @@
-<h1 align="center">Hi 👋, I'm thisasta</h1>
-<h3 align="center">A student who wants to become a software developer</h3>
+<h1 align="center">Abishan Arankesan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisasta&label=Profile%20views&color=0e75b6&style=flat" alt="thisasta" /> </p>
-
-- 🔭 I’m currently working on **APIs and React**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abishan arankesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abishan arankesan" height="30" width="40" /></a>
+<p align="center">
+  Dual-study software engineering student · Java & Spring Boot · building things end to end
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/DEIN-LINKEDIN-SLUG">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=thisasta&label=Profile%20views&color=0A66C2&style=for-the-badge" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisasta&show_icons=true&theme=dark&locale=en&layout=compact" alt="thisasta" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisasta&show_icons=true&theme=dark&locale=en" alt="thisasta" /></p>
+### About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisasta&theme=dark" alt="thisasta" /></p>
+I'm doing a dual degree in **Software Technology** in Germany — full-time work at a bank alongside university coursework. Day job started in data governance and data platforms; what I actually want to build is **backend services and software architecture**, preferably in the financial domain.
+
+I care less about getting something to run and more about being able to explain every decision behind it.
+
+- 🚗 Long-term side project: **Lückenlos** — making unreadable vehicle service books searchable and verifiable
+- 🧰 I run my side projects like real work: tickets, branches, pull requests against myself, tests, CI, ADRs
+- 🔐 Learning my way through **cyber security fundamentals** on the side
+- 💬 Ask me about Java, Spring Boot, Postgres, or CI pipelines that nobody wanted to migrate
+
+---
+
+### Tech I work with
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & data**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tooling & platform**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+
+**Currently learning**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+### Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **Lückenlos** *(private)* | Turns paper service books and workshop invoices into a searchable, provable vehicle history | Spring Boot, Postgres, Docker, Flyway |
+| **Workflow Migrator** | Internal tool that migrated GitHub Actions workflows across a central data platform at scale | Python, GitPython, regex, JSON |
+
+---
+
+### Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thisasta&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thisasta&show_icons=true&hide_border=true&hide_title=true" alt="GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=thisasta&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisasta&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thisasta&hide_border=true&theme=github-dark" />
+    <img src="https://streak-stats.demolab.com?user=thisasta&hide_border=true" alt="Contribution streak" />
+  </picture>
+</p>
